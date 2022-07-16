@@ -1,0 +1,33 @@
+ItemNumber,Sentence,compQ,corrAnsw,itemType
+0,After the rebels attacked a nearby village was evacuated very quickly.,The rebels didn’t attack the nearby village.,1,item
+1,After the Mayor visited the patients were moved to different rooms.,The Mayor paid a visit after the patients were moved.,0,item
+2,After the teacher left the students were bickering with each other.,The teacher left before the students quarreled.,1,item
+3,While the customers ate some food was cooking on the grill.,The customers ate only after all the cooking was done.,0,item
+4,While the kids studied their parents were bribing teachers at school.,Some teachers were bribed by students at school.,0,item
+5,While the men hunted the bear was running into the woods.,The bear was in a hurry to get into the woods.,1,item
+6,As the boys bathed the cat was busy catching a mouse.,The kids bathed the cat that was chasing the mouse.,0,item
+7,As the king governed his subjects were starving across the realm.,Many people in the kingdom had no food to eat.,1,item
+8,As the reporters watched the spacecraft was launched into orbit successfully.,The spacecraft launch was not a hoax.,1,item
+9,While the detective investigated the suspects were hiding in a warehouse.,The suspects had no idea they were being sought.,0,item
+10,While the instructor taught these students were shouting outside the classroom.,The students were being shouted at by the instructor.,0,item
+11,When the crowd applauded the performers were resting backstage for a_while.,The performers were tired and left the stage before the applause.,1,item
+12,Although the audience booed the comedian was eager to begin the_act.,The comedian was hesitant about going on stage because of the booing.,0,item
+13,Although the soldiers saluted the flag was not on the_pole outside.,The soldiers hoisted the flag outside as part of the ceremony. ,0,item
+14,Though the crowd pushed the bouncer was firm in keeping them_out.,Some people were too eager to gain access to the premises.,1,item
+15,While the cat scratched the fleas were jumping on the carpet.,There were some insects moving on the floor.,1,item
+16,After the incident the witnesses insulted the victims during the trial.,The witnesses were insulted by the victims in front of the judge.,0,distractor1
+17,While the principal was away the instructor berated kids in class.,The instructor is not pleased with the students.,1,distractor1
+18,When the musicians arrived the promoters stopped selling tickets to minors.,Not all the concert ticket holders were adults.,1,distractor1
+19,As the doctors rested in the cafeteria the patients were re-examined.,The patients were re-examined at the cafeteria by the doctors.,0,distractor1
+20,Although the electrician was late again the plumber arrived on time.,The electrician and the plumber are both always very punctual.,0,distractor1
+21,Though babysitters were available the parents had to cancel the event.,The parents had to postpone their plans.,1,distractor1
+22,Whenever undecided voters were interviewed the pundits in the studio bickered.,The camera cut to the bickering voters after the studio interviews.,0,distractor1
+23,If the radar is correct the storm will be here tomorrow.,The radar data can be used to make predictions about the weather.,1,distractor1
+24,Because a bank now_owns this building the rents are going up.,The new owner of the property is charging the tenants more.,1,distractor2
+25,After Amy published the book her agent was arrested for embezzlement.,Amy’s agent is suspected of having committed a crime.,1,distractor2
+26,While a farmer shot at the fox the barn was unattended.,The farmer was shooting at the fox from inside the barn.,0,distractor2
+27,As James caught a frog in a_bucket his sisters became upset.,James’ siblings did not approve of what he did with the bucket.,1,distractor2
+28,Though the bus driver missed a street Sue was at_school on_time.,Sue brought a child home after the bus missed its stop.,0,distractor2
+29,When the bikers arrived at the_wedding the priest was visibly upset.,The bikers arrived at the wedding before the priest got there.,0,distractor2
+30,Although the pizza delivery guy tripped on a_rug he was unharmed.,Someone delivering food had a driving accident but was not hurt.,0,distractor2
+31,If the hygienist has enough time the chairs are cleaned daily.,There is no guarantee that the chairs will be cleaned every day.,1,distractor2
